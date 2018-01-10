@@ -146,6 +146,7 @@ RUN \
 		--enable-opcache \
 		--enable-sockets \
 		--enable-zip \
+		--enable-bcmath \
 		--with-bz2 \
 		--with-curl \
 		--with-fpm-group=www-data \
