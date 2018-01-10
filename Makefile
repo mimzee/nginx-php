@@ -1,6 +1,6 @@
-REPO = rtucek
+REPO = mimzee
 IMAGE = nginx-php
-VERSION = 0.4.3
+VERSION = 0.5.0
 EXTRAVERSION =
 
 IMAGE_NAME = $(REPO)/$(IMAGE)
